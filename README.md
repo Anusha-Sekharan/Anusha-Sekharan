@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anushasekharan@gmail.com**
 
-- ⚡ Fun fact **I'm quiet but focused. Loves long walks, travelling, and exploring new places. Experiments with new tech just to understand how things work.**
+---
 
 - ## 🎉 Fun Facts About Anusha 
 - 🎧 Late-night + movies = comfort zone    
@@ -30,6 +30,8 @@
 <a href="https://www.hackerrank.com/anushasekharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anushasekharan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anusha_sekharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anusha_sekharan" height="30" width="40" /></a>
 </p>
+---
+
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
