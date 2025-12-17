@@ -15,7 +15,7 @@
 ---
 
 - ## 🎉 Fun Facts About Anusha 
-- 🎧 Late-night + movies = comfort zone    
+- 🎧 Late-night + movies = comfort zone!!    
 - 🌍 Loves travelling & long peaceful walks  
 - 🧩 Logic & patterns make her weirdly happy
 - ✨Experiments with new tech just to understand how things work
