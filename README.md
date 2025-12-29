@@ -14,7 +14,7 @@
 
 ---
 
-- ## 🎉 Fun Facts About Anusha 
+- ## 🎉 Fun Facts About Anusha !
 - 🎧 Late-night + movies = comfort zone !!    
 - 🌍 Loves travelling & long peaceful walks  
 - 🧩 Logic & patterns make her weirdly happy
