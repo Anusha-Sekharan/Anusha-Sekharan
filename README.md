@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/anushasekharan" target="blank"><img src="https://img.shields.io/twitter/follow/anushasekharan?logo=twitter&style=for-the-badge" alt="anushasekharan" /></a> </p>
 
-- 🔭 I’m currently working on **AI assistant for astronaunts**
+- 🔭 I worked on **AI assistant for astronaunts**
+
+- 🔭 I'm currently  worked on **AI assistant for astronaunts** 
 
 - 🌱 I’m currently learning **LLaMA fine-tuning & building AI bots**
 
