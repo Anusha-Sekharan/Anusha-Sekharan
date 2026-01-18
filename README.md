@@ -6,7 +6,7 @@
 
 - 🔭 I worked on **AI assistant for astronaunts**
 
-- 🔭 I'm currently  worked on **AI assistant for astronaunts** 
+- 🔭 I'm currently working on **AURA - an personal assistant agent** 
 
 - 🌱 I’m currently learning **LLaMA fine-tuning & building AI bots**
 
