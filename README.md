@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/anushasekharan" target="blank"><img src="https://img.shields.io/twitter/follow/anushasekharan?logo=twitter&style=for-the-badge" alt="anushasekharan" /></a> </p>
 
-- 🔭 I worked on **AI assistant for astronaunts**
+- 🔭 I worked on a project based on **AI assistant for astronaunts**
 
 - 🔭 I'm currently working on **AURA - an personal assistant agent** 
 
