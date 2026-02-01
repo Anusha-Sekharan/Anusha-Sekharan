@@ -20,7 +20,7 @@
 - 🎧 Late-night + movies = comfort zone !!    
 - 🌍 Loves travelling & long peaceful walks  
 - 🧩 Logic & patterns make her weirdly happy
-- ✨Experiments with new tech just to understand how things work
+- ✨Experiments with new tech just to understand how things work !
 ---
 
 <h3 align="left">Connect with me:</h3>
