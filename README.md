@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm Anusha Sekharan !!</h1>
+<h1 align="center">Heyy 👋, I'm Anusha Sekharan !!</h1>
 <h3 align="center">CSE Student • AI/ML Learner • ML Intern • Web Developer • GenAI Enthusiastic </h3>
 
 
