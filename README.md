@@ -6,6 +6,8 @@
 
 - 🔭 I worked on a project based on **AI assistant for astronaunts**
 
+- 📫 I also worked on a project based on **Autonomous Health Reminder and Assistant for Maternity Woman**
+
 - 🔭 I'm currently working on **AURA - an personal assistant agent** 
 
 - 🌱 I’m currently learning **LLaMA fine-tuning & building AI bots**
