@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend Development!
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
