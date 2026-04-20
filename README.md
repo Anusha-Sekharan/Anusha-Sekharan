@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-### 🔥 Backend Development
+### 🔥 Backend Development!
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,nodejs" />
 </p>
